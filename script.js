@@ -6,7 +6,7 @@ let i=0;
 	let isPallindrome=true;
 	while(i<=j)
 		{
-			if(arr[i]!==arr[j])
+			if(str[i]!==str[j])
 			{
 				isPallindrome=false;
 				break;
